@@ -1,4 +1,6 @@
 .one{
     text-align: center;
     background-color: red;
+    border: red;
+    border-radius: 5px;
 }
